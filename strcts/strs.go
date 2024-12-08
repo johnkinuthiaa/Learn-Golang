@@ -6,7 +6,7 @@ import (
 
 func strcts() {
 	/*
-		structs acts as objects
+		structs acts as objects for holding and creating new instances from them
 	*/
 	type person struct {
 		firstName string
