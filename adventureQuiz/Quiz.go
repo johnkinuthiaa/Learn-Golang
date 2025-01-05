@@ -9,6 +9,7 @@ func main() {
 	scores := 0
 	userAnswer := ""
 	gameOver := false
+
 	type questionStruct struct {
 		question string
 		answer   string
